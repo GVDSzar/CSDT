@@ -8,7 +8,7 @@ CSDT (Collateralized Stable Debt Tokens)
 
 ### Official website
 
-[Xar Networt](https://xar.network)
+[Xar Network](https://xar.network)
 
 ### Elevator Pitch(s)
 
