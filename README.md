@@ -78,6 +78,7 @@ Grow on-chain AUM to ~$100MM, accomplishing this via competitive interest rates 
 - Jan 2020 Hub_3 upgrade ~ including [synthetic trading & coinswap](https://www.blog.xar.network/interacting-with-xar-modules/)
 - Feb 2020 Synthetics trading
 - Mar 2020 DEX trading
+- Mar 2020 Ledger Support
 - Apr 2020 [CBDC](https://www.blog.xar.network/central-bank-digital-currency/) MVP
 - Sep 2020 CBDC Deployment
 
